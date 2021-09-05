@@ -1,11 +1,11 @@
 .webname{
-	
+
 }
 
 .MainMenu ul{
 	list-style-type: none;
 	text-decoration: bold;
-	
+
 }
 
 .MainMenu > li{
@@ -25,5 +25,5 @@
 }
 
 .MainMenu a:hover{
-	color: lime;
+	text-decoration: underline;
 }
