@@ -27,3 +27,9 @@
 .MainMenu a:hover{
 	text-decoration: underline;
 }
+
+main{
+	margin: 2rem;
+  padding: 5px;
+  background-color: lightgray;
+}
